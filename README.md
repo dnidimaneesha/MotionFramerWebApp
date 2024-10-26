@@ -3,6 +3,7 @@ A modern and responsive website built using React.js and Tailwind CSS, with smoo
 
 Live Demo
 Check out the live version of the website here.
+
 beautycosmetices-motionframer.netlify.app
 
 Features
